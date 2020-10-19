@@ -8,7 +8,7 @@ namespace Repo
     {
         public App()
         {
-            InitializeComponent();
+            InitializeComponent(); //test
 
             MainPage = new MainPage();
         }
